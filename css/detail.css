@@ -1,0 +1,164 @@
+.crumb-wrap {
+    margin-top: 20px;
+    height: 25px;
+}
+
+.crumb-wrap a {
+    margin-right: 10px;
+}
+
+.previw-wrap {
+    height: 590px;
+    width: 400px;
+}
+
+.iteminfo-wrap {
+    width: 718px;
+}
+
+.small {
+    display: none;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background-color: rgba(224, 240, 6, 0.363);
+}
+
+.shouj-img {
+    position: relative;
+}
+
+.big {
+    display: none;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 410px;
+    width: 500px;
+    height: 500px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    z-index: 999;
+}
+
+.shouj .big img {
+    position: absolute;
+    width: 800px;
+    height: 800px;
+}
+
+.shouj {
+    width: 398px;
+    height: 398px;
+    border: 1px solid #ccc;
+}
+
+.shouj img {
+    width: 398px;
+    height: 398px;
+}
+
+.sku {
+    height: 33px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.news {
+    color: #e12228;
+}
+
+.zy {
+    height: 60px;
+    margin-top: 60px;
+}
+
+.list-item {
+    width: 320px;
+    height: 62px;
+    margin: 0 auto;
+}
+
+.list-item img {
+    width: 56px;
+    height: 56px;
+}
+
+.list-item li {
+    float: left;
+    width: 56px;
+    height: 56px;
+    border: 2px solid transparent;
+    margin: 0 2px;
+}
+
+.list-item li.hongs {
+    border: 2px solid red;
+}
+
+.iteminfo-wrap .news {
+    height: 33px;
+}
+
+.summary {
+    background-color: #fee9eb;
+}
+
+.summary dl {
+    overflow: hidden;
+}
+
+.summary dt,
+.summary dd {
+    float: left;
+}
+
+.summary dt {
+    width: 60px;
+    line-height: 36px;
+    padding-left: 10px;
+}
+
+.price {
+    font-size: 24px;
+    color: #e12228;
+}
+
+.summary-price,
+.summary-promotion {
+    position: relative;
+    padding-top: 10px;
+}
+
+.summary-price a {
+    color: #e12228;
+}
+
+.remark {
+    position: absolute;
+    top: 20px;
+    right: 5px;
+}
+
+.remark i {
+    color: #1474af;
+}
+
+.summary-promotion {
+    padding-top: 0;
+}
+
+.summary-promotion dd {
+    width: 544px;
+    line-height: 36px;
+}
+
+.jiagou {
+    display: inline-block;
+    height: 25px;
+    width: 40px;
+    color: #fff;
+    line-height: 25px;
+    text-align: center;
+    background-color: #c81623;
+}

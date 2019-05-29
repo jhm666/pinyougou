@@ -1,0 +1,248 @@
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.w {
+	width: 1200px;
+	margin: 0 auto;
+}
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../fonts/icomoon.eot?7kkyc2');
+    src:  url('../fonts/icomoon.eot?7kkyc2#iefix') format('embedded-opentype'),
+      url('../fonts/icomoon.ttf?7kkyc2') format('truetype'),
+      url('../fonts/icomoon.woff?7kkyc2') format('woff'),
+      url('../fonts/icomoon.svg?7kkyc2#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.spacer {
+	width: 1px;
+	height: 12px;
+	background-color: #666;
+	margin: 9px 12px 0;
+}
+.style-red {
+	color: #c81623;
+}
+.shortcut {
+	height: 31px;
+	background-color: #f1f1f1;
+	line-height: 31px;
+}
+.shortcut li {
+	float: left;
+}
+.icomoon {
+	font-family: "icomoon";
+	font-size: 16px;
+	line-height: 26px;
+}
+.header {
+	position: relative;
+	height: 105px;
+}
+.logo {
+	position: absolute;
+	top: 25px;
+	left: 0;
+	width: 175px;
+	height: 56px;
+}
+.logo a {
+	display: block;
+	width: 100%;
+	height: 56px;
+	background: url(../img/logo.png);
+	font-size: 0;
+}
+.ss input {
+/*	float: left;
+*/	position: absolute;
+	top: 25px;
+	left: 348px;
+	width: 445px;
+	height: 32px;
+	color: #ccc;
+	padding-left: 10px;
+	border: 2px solid #B1191A;
+}
+.ss button {
+	/*float: left;*/
+	position: absolute;
+	top: 25px;
+	left: 805px;
+	width: 84px;
+	height: 36px;
+	color: #fff;
+	font-size: 16px;
+	background-color: #B1191A;
+	border: none;
+}
+.nav {
+	position: absolute;
+	top: 60px;
+	left: 350px;
+    padding-left: 7px;
+}
+.nav li {
+	float: left;
+	margin: 5px 24px 0 0;
+}
+.gwc {
+	position: absolute;
+	top: 25px;
+	right: 65px;
+	height: 35px;
+	width: 138px;
+	line-height: 35px;
+	text-align: center;
+	font-family: "icomoon";
+	font-size: 12px;
+	border: 1px solid #DFDFDF;
+	background-color: #F7F7F7;
+}
+.e {
+	position: absolute;
+	top: 21px;
+	right: 83px;
+	color: #fff;
+	height: 14px;
+	width: 20px;
+	line-height: 14px;
+	background-color: #E60012;
+	text-align: center;
+	z-index: 999;
+	border-radius: 10px 10px 10px 0; 
+}
+.gwc .gw {
+	color: #db5659;
+	font-size: 14px;
+	margin-right: 5px;
+}
+.gwc .xx {
+	margin-left: 10px;
+}
+.xian {
+    height: 45px;
+    border-bottom: 2px solid #B1191A;
+}
+.shangp {
+    width: 209px;
+    height: 45px;
+    background-color: #B2191B;
+    /*overflow: hidden;*/
+}
+.dt {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    font-size: 16px;
+    line-height: 45px;
+    text-align: center;
+}
+.dd {
+    width: 209px;
+    height: 465px;
+    background-color: #C81622;
+    margin-top: 2px;
+}
+.nav-one {
+    margin-top: 10px;
+    margin-left: 35px;
+}
+.nav-one a {
+    font-size: 16px;
+    margin-right: 45px;
+}
+.dd a {
+    float: left;
+    font-size: 14px;
+    color: #fff;
+}
+.dd li {
+    height: 31px;
+    line-height: 31px;
+    padding: 0 10px;
+    margin-left: 1px;
+}
+.dd i {
+    float: right;
+    color: #fff;
+    font-size: 18px;
+    font-family: "icomoon";
+}
+.dd li:hover {
+    background-color: #fff;
+}
+.dd li:hover a {
+        color: #C81622;
+}
+.footer {
+	height: 416px;
+	background-color: #f5f5f5;
+	padding-top: 20px;
+}
+.mod_sernice {
+	height: 79px;
+	border-bottom: 1px solid #ccc;
+}
+.mod_sernice li {
+	float: left;
+	width: 240px;
+	height: 79px;
+}
+.zheng {
+	background: url(../img/icons.png) no-repeat -253px -3px;;
+}
+.kuai {
+	background: url(../img/icons.png) no-repeat -254px -53px;;
+}
+.bao {
+	background: url(../img/icons.png) no-repeat -257px -106px;;	
+}
+.zhang {
+	background: url(../img/icons.png) no-repeat -258px -157px;;	
+}
+.wen {
+	background: url(../img/icons.png) no-repeat -258px -209px;;
+}
+
+.tit {
+	float: left;
+	margin-left: 5px;
+}
+.tit h5 {
+	margin: 5px 0;
+}
+.zpbz {
+	float: left;
+	width: 50px;
+	height: 50px;
+	margin-left: 35px; 
+}
+.mod_help {
+	height: 187px;
+	border-bottom: 1px solid #ccc;
+}
+.iten {
+	float: left;
+	width: 150px;
+	padding: 20px 0 0 50px;
+}
+.iten dt {
+	height: 25px;
+	font-size: 16px;
+}
+.iten dd {
+	height: 22px;
+}
+.app dt,
+.app p {
+	padding-left: 15px;
+}
+.app img {
+	margin: 5px 0;
+}

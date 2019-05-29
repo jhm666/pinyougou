@@ -1,0 +1,140 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.header {
+    overflow: hidden;
+    height: 82px;
+    border-bottom: 2px solid #b1191a;
+}
+
+.logo {
+    height: 60px;
+    width: 180px;
+    margin-top: 15px;
+    background: url(../img/logo.png) no-repeat;
+}
+
+.body {
+    height: 520px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
+
+.top {
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid #ccc;
+    background-color: #ececec;
+}
+
+.left {
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+}
+
+.right {
+    font-size: 14px;
+    color: #333;
+}
+
+.right a {
+    color: #c81623;
+}
+
+.table {
+    width: 600px;
+    margin: 55px auto;
+}
+
+.one span {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    font-size: 14px;
+    color: #4c4c4c;
+}
+
+.one input {
+    height: 35px;
+    width: 240px;
+    border: 1px solid #999999;
+}
+
+.one i {
+    color: #df3033;
+    margin-left: 10px;
+}
+
+.table li {
+    margin-top: 20px;
+}
+
+.anquan {
+    color: #b2b2b2;
+    padding-left: 178px;
+}
+
+.anquan i {
+    color: #fff;
+    padding: 0 12px;
+}
+
+.ruo {
+    background-color: #de1111;
+}
+
+.zhong {
+    background-color: #40b83f;
+}
+
+.qiang {
+    background-color: #f79100;
+}
+
+.xy input {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.xy {
+    margin-left: 102px;
+}
+
+.xy a {
+    color: #1ba1e6;
+}
+
+.table .wanc {
+    margin: 50px 0 0 105px;
+}
+
+.wanc button {
+    height: 35px;
+    width: 200px;
+    font-size: 14px;
+    color: #fff;
+    line-height: 35px;
+    text-align: center;
+    background-color: #c81623;
+    border: none;
+}
+
+.footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.footer p {
+    line-height: 25px;
+}

@@ -1,0 +1,154 @@
+.clearfix:after {
+    content: "";
+    display: block;
+    height: 0;
+    visibility: hidden;
+    clear: both;
+}
+
+.sk {
+    position: absolute;
+    top: 40px;
+    left: 185px;
+    height: 32px;
+    border-left: 1px solid #b1191a;
+    padding: 5px 0 0 15px;
+}
+
+.le li {
+    float: left;
+    line-height: 45px;
+    margin: 0 30px;
+}
+
+.le a {
+    font-size: 16px;
+    color: #000;
+    font-weight: 700;
+}
+
+.le a:hover {
+    color: #c81523;
+}
+
+.rig li {
+    float: left;
+    line-height: 45px;
+    margin: 0 22px;
+}
+
+.rig a {
+    font-size: 14px;
+    font-weight: 700;
+    font-family: "icomoon";
+}
+
+.sk-bd {
+    margin-top: 25px;
+}
+
+.sk-bd ul {
+    width: 1220px;
+}
+
+.sk-goods {
+    float: left;
+    width: 288px;
+    height: 458px;
+    margin-right: 15px;
+    border: 1px solid #fff;
+}
+
+.sk-goods:hover {
+    border: 1px solid red;
+}
+
+.sk-goods h5,
+.sk-goods p,
+.sk-goods .yishou {
+    margin-left: 10PX;
+}
+
+.sk-goods h5 {
+    font-size: 14px;
+    color: #666;
+    font-weight: 400;
+    padding: 10px 0;
+}
+
+.sk-goods em {
+    font-size: 22px;
+    color: #e60012;
+}
+
+.sk-goods del {
+    font-size: 14px;
+    color: #a4a4a4;
+    font-weight: 700;
+}
+
+.yishou span {
+    display: inline-block;
+    font-size: 14px;
+    color: #666666;
+}
+
+.lijiqiang {
+    height: 50px;
+    width: 290px;
+    margin-top: 3px;
+    text-align: center;
+    background-image: url(../upload/secBuy.png);
+}
+
+.lijiqiang a {
+    font-size: 20px;
+    line-height: 50px;
+    color: #fff;
+}
+
+.page {
+    margin: 40px 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.page-num a {
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    border: 1px solid #ccc;
+    background-color: #f7f7f7;
+}
+
+.page-num .er,
+.page-num .dian {
+    border: none;
+    background-color: transparent;
+}
+
+.page-num .syy,
+.page-num .xyy {
+    width: 60px;
+}
+
+.page-skip input {
+    width: 46px;
+    height: 36px;
+    border: 1px solid #ccc;
+    text-align: center;
+    transition: all 0.3s;
+}
+
+.page-skip input:focus {
+    width: 88px;
+    border: 1px solid skyblue;
+}
+
+.page-skip button {
+    width: 54px;
+    height: 36px;
+    border: 1px solid #ccc;
+    background-color: #f7f7f7;
+}

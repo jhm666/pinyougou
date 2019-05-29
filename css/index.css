@@ -1,0 +1,159 @@
+.banxin{
+	overflow: hidden;
+}
+.zhongji {
+	height: 455px;
+	width: 721px;
+	position: relative;
+    padding-left: 219px;
+    padding-top: 10px;
+}
+.right {
+    height: 455px;
+    width: 248px;
+    margin-top: 10px;
+    margin-right: 3px;
+}
+.rightone {
+	height: 163px;
+	border: 1px solid #ccc;
+}
+.l ,
+.r{
+	position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    width: 24px;
+    height: 40px;
+    background: rgba(0,0,0,.3);
+    text-align: center;
+    line-height: 40px;
+    color: #fff;
+}
+.r {
+	right: 0;
+}
+.tou {
+	height: 32px;
+	width: 100%;
+	line-height: 32px;
+	border-bottom: 1px dotted #ccc;
+}
+.tou p {
+	font-size: 14px;
+	margin-left: 15px;
+}
+.tou a {
+	margin-right: 13px;
+}
+i {
+	font-family: "icomoon";
+}
+.tehui {
+	height: 120px;
+	width: 100%;
+	padding-top: 10px;
+	border-bottom: 1px solid #ccc;
+}
+.tehui li {
+	height: 23px;
+	margin-left: 15px;
+}
+.szj {
+	height: 75px;
+	width: 100%;
+	margin-top: 5px;
+}
+.fj	{
+	height: 208px;
+	border: 1px solid #ccc;
+	border-top: none;
+}
+.fj li {
+	float: left;
+	height: 70px;
+	width: 62px;
+	border-bottom: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+.fj li a {
+/*	margin-top: 45px; 
+*/	display: block;
+	height: 100%;
+	overflow: hidden;
+}
+.fj li p {
+	margin-top: 8px; 
+	text-align: center;
+}
+.fj ul {
+	width: 252px;
+}
+.huafei {
+	display: block;
+	height: 24px;
+	width: 24px;
+	margin: 12px 0 0 19px; 
+	background-image: url(../img/icons.png);
+	background-position: -18px -16px;
+}
+.aaaaa {
+    height: 163px;
+    margin-top: 10px;
+    background-color: pink;
+}
+.jinri {
+	float: left;
+	width: 200px;
+	height: 100%;
+	text-align: center;
+	background-color: #5c5251;
+}
+.jinri img {
+	width: 60px;
+	height: 60px;
+	margin-top: 30px
+}
+.haohuo {
+	float: right;
+	width: 1000px;
+	height: 100%;
+	background-color: #ebebeb;
+}
+.jinri p {
+	font-size: 18px;
+	color: #fff;
+	margin-top: 10px;	
+}
+.haohuo li {
+	float: left;
+	height: 146px;
+	width: 248px;
+	margin-top: 7px;
+	border-right: 1px solid #ccc;
+}
+.haohuo .ooo {
+	border-right: none;
+}
+.box-hd {
+	height: 30px;
+	border-bottom: 2px solid #c81623;
+	margin-top: 25px;
+}
+.box-hd h3 {
+	float: left;
+	font-weight: 400;
+	font-size: 18px;
+	color: #c81623;
+}
+.tab-list {
+	float: right;
+	line-height: 30px;
+}
+.tab-list li {
+	float: left;
+}
+.tab-list span {
+	margin: 0 15px;
+}
+
